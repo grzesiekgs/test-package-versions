@@ -1,6 +1,6 @@
 {
   "name": "test-package-versions",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "dummy test for package versions",
   "main": "index.js",
   "scripts": {

@@ -1,3 +1,3 @@
 export const dummyTestPackageVersion = () => {
-  console.log('dummyTestPackageVersion V1.0');
+  console.log('dummyTestPackageVersion V2.0');
 };
